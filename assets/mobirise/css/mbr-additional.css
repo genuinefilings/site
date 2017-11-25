@@ -4537,15 +4537,15 @@ body {
 .cid-qBUDYuAv4S .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qBUEUkcotl {
+.cid-qC0NbuVSRS {
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 45px;
   background-color: #efefef;
 }
-.cid-qBUEUkcotl .list-group-item {
+.cid-qC0NbuVSRS .list-group-item {
   padding: .75rem 3.25rem;
 }
-.cid-qBUEUkcotl .plan {
+.cid-qC0NbuVSRS .plan {
   word-break: break-word;
   position: relative;
   max-width: 300px;
@@ -4553,14 +4553,14 @@ body {
   padding-left: 0;
   color: #767676;
 }
-.cid-qBUEUkcotl .plan .list-group-item {
+.cid-qC0NbuVSRS .plan .list-group-item {
   position: relative;
   -webkit-justify-content: center;
   justify-content: center;
   background-color: transparent;
   border: 0;
 }
-.cid-qBUEUkcotl .plan .list-group-item::after {
+.cid-qC0NbuVSRS .plan .list-group-item::after {
   position: absolute;
   bottom: 0;
   left: 20%;
@@ -4569,31 +4569,31 @@ body {
   content: "";
   background-color: #eaeaea;
 }
-.cid-qBUEUkcotl .plan .list-group-item:last-child::after {
+.cid-qC0NbuVSRS .plan .list-group-item:last-child::after {
   display: none;
 }
-.cid-qBUEUkcotl .plan.favorite {
+.cid-qC0NbuVSRS .plan.favorite {
   background-color: #fff;
   box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.07);
 }
-.cid-qBUEUkcotl .plan-header {
+.cid-qC0NbuVSRS .plan-header {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-.cid-qBUEUkcotl .price-figure {
+.cid-qC0NbuVSRS .price-figure {
   font-weight: 700;
   color: #232323;
 }
-.cid-qBUEUkcotl .price-value {
+.cid-qC0NbuVSRS .price-value {
   font-weight: 700;
   vertical-align: top;
 }
 @media (max-width: 550px) {
-  .cid-qBUEUkcotl .price-figure {
+  .cid-qC0NbuVSRS .price-figure {
     font-size: 4.25rem;
   }
 }
-.cid-qBUEUkcotl UL {
+.cid-qC0NbuVSRS UL {
   text-align: left;
 }
 .cid-qBUPsZgj1t {
@@ -4731,7 +4731,7 @@ body {
 .cid-qBUSGaAL35 {
   padding-top: 30px;
   padding-bottom: 45px;
-  background-color: #ff3366;
+  background-color: #efefef;
   position: relative;
 }
 .cid-qBUSGaAL35 .card {
@@ -4767,7 +4767,7 @@ body {
   color: #767676;
 }
 .cid-qBUSGaAL35 .panel-text {
-  color: #ffffff;
+  color: #149dcc;
 }
 .cid-qBUSGaAL35 .panel-text B {
   color: #ffffff;
