@@ -2564,7 +2564,7 @@ body {
   width: 100%;
 }
 .cid-qBJlmye4JY {
-  padding-top: 135px;
+  padding-top: 105px;
   padding-bottom: 45px;
   background-color: #0f7699;
 }
@@ -4029,7 +4029,7 @@ body {
   width: 100%;
 }
 .cid-qBUKgC3i72 {
-  padding-top: 135px;
+  padding-top: 105px;
   padding-bottom: 45px;
   background-color: #4f4943;
 }
@@ -4697,7 +4697,7 @@ body {
 .cid-qBUSGaAL35 {
   padding-top: 30px;
   padding-bottom: 45px;
-  background-color: #55b4d4;
+  background-color: #ff3366;
   position: relative;
 }
 .cid-qBUSGaAL35 .card {
@@ -4733,7 +4733,10 @@ body {
   color: #767676;
 }
 .cid-qBUSGaAL35 .panel-text {
-  color: #232323;
+  color: #ffffff;
+}
+.cid-qBUSGaAL35 .panel-text B {
+  color: #ffffff;
 }
 .cid-qBVeqzrZUH {
   padding-top: 15px;
